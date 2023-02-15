@@ -1,0 +1,15 @@
+body {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("romantic.jpg");
+}
+
+h1{
+    display: block;
+    margin-top: 20%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 13em;
+    
+}
